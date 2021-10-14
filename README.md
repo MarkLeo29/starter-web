@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple website project for showing how to use Git and Github
+Rebasing example
 
 ## Introduction
 Hi I am Mark a Software Engineer
