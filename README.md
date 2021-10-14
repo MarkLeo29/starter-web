@@ -13,3 +13,6 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 Join our community
+## Copyright
+
+2021 Git.Training
