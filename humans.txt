@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mark Leo Aranas markleo.aranas29@gmail.com
 
 # THANKS
 
